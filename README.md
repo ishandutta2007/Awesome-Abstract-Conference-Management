@@ -6,18 +6,20 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Ex Ordo](https://www.exordo.com/)** — Comprehensive academic conference platform with strong abstract management, multi-track support, peer review, registration, and virtual/hybrid features. Quote-based pricing.
-- **[OpenWater](https://www.getopenwater.com/)** — Abstract management, awards, grants, and conference workflows with customizable forms and review processes.
-- **[Oxford Abstracts](https://www.oxfordabstracts.com/)** — Dedicated academic abstract and conference management with transparent per-event pricing, free tier for small events, strong peer-review tools, and website builder.
-- **[ConfTool](https://www.conftool.net/)** — Highly configurable European conference system supporting abstract submission, review, registration, and program creation. Free Standard edition available; Pro is paid.
-- **[EasyChair](https://easychair.org/)** — Widely used (especially in computer science) for paper submission, bidding, assignment, and review. Per-submission pricing; free tier for some events.
-- **[Whova](https://whova.com/)** — All-in-one conference app with abstract management, attendee engagement, agenda builder, and networking features.
-- **[CadmiumCD / X-CD](https://www.x-cd.com/)** — Abstract collection, peer review, program scheduling, and speaker management used by hundreds of conferences.
-- **[Fourwaves](https://fourwaves.com/)** — Modern platform for scientific events with free plan, abstract submission, peer review, registration, and poster sessions.
-- **[ExhibitDay](https://www.exhibitday.com/)** — Focused on exhibition and conference scheduling with abstract and session management.
-- **[Sessionize](https://sessionize.com/)** — Speaker and session management platform popular for tech conferences; handles Call for Speakers, reviews, and agenda building.
-- **[OpenConf](https://www.openconf.com/)** — Mature peer-review and abstract management system (self-hosted or hosted). Proprietary but installable on your own server.
-- **[Microsoft CMT](https://cmt3.research.microsoft.com/)** — Free (for academic use) Conference Management Toolkit by Microsoft Research. Excellent for large CS conferences; submission + review focused.
+| Platform | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Ex Ordo](https://www.exordo.com/)** | Comprehensive academic conference platform with strong abstract management, multi-track support, peer review, registration, and virtual/hybrid features. | Quote-based pricing | N/A |
+| **[OpenWater](https://www.getopenwater.com/)** | Abstract management, awards, grants, and conference workflows with customizable forms and review processes. | Quote-based pricing | N/A |
+| **[Oxford Abstracts](https://www.oxfordabstracts.com/)** | Dedicated academic abstract and conference management with strong peer-review tools, and website builder. | Transparent per-event pricing | Free tier for small events |
+| **[ConfTool](https://www.conftool.net/)** | Highly configurable European conference system supporting abstract submission, review, registration, and program creation. | Pro version is paid | Free Standard edition for non-commercial, small events (up to 150 participants) |
+| **[EasyChair](https://easychair.org/)** | Widely used (especially in computer science) for paper submission, bidding, assignment, and review. | Per-submission pricing | Free tier available for small events |
+| **[Whova](https://whova.com/)** | All-in-one conference app with abstract management, attendee engagement, agenda builder, and networking features. | Quote-based pricing | N/A |
+| **[CadmiumCD / X-CD](https://www.x-cd.com/)** | Abstract collection, peer review, program scheduling, and speaker management used by hundreds of conferences. | Quote-based pricing | N/A |
+| **[Fourwaves](https://fourwaves.com/)** | Modern platform for scientific events with abstract submission, peer review, registration, and poster sessions. | Paid tiers | Free plan available (up to 100 participants) |
+| **[ExhibitDay](https://www.exhibitday.com/)** | Focused on exhibition and conference scheduling with abstract and session management. | Paid tiers | Free Lite tier available |
+| **[Sessionize](https://sessionize.com/)** | Speaker and session management platform popular for tech conferences; handles Call for Speakers, reviews, and agenda building. | Free for community events | Free for community/non-commercial events |
+| **[OpenConf](https://www.openconf.com/)** | Mature peer-review and abstract management system (self-hosted or hosted). Proprietary but installable on your own server. | Paid editions | N/A |
+| **[Microsoft CMT](https://cmt3.research.microsoft.com/)** | Conference Management Toolkit by Microsoft Research. Excellent for large CS conferences; submission + review focused. | Free for academic use | Free for academic use |
 
 ## 🔓 Open-Source Software
 
